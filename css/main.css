@@ -1,0 +1,16 @@
+.team{
+   background-color: rgb(242, 238, 233); 
+  text-align: center;
+  color: rgb(8, 8, 17);
+
+}
+.itemP{
+    color: rgb(62, 100, 100);  
+}
+.item{
+  float:left;
+  width:33.33%;
+}
+.clear{
+  clear:left;
+}
